@@ -1,1 +1,2 @@
 ﻿I am template file.
+The second line.
